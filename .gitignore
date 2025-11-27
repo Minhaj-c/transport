@@ -1,0 +1,21 @@
+# ===== PYTHON / DJANGO =====
+venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+
+# ===== FLUTTER / DART =====
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# ===== VS CODE =====
+.vscode/
+
+# ===== SYSTEM FILES =====
+.DS_Store
+Thumbs.db
